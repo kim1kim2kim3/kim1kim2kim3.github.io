@@ -1,6 +1,5 @@
 ---
 title: "Mastering the Game of Go with Deep Neural Networks and Tree Search"
-date: 2026-09-13 03:30:00 +0900
 categories: [논문리뷰, RL]
 tags: [alphago, reinforcement-learning, deep-learning, mcts]
 math: true
