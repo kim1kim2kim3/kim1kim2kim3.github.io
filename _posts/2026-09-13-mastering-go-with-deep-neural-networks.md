@@ -1,5 +1,5 @@
 ---
-title: "Mastering the Game of Go with Deep Neural Networks and Tree Search"
+title: "[논문리뷰] David Silver et al., “Mastering the game of Go with deep neural networks and tree search”"
 categories: [논문리뷰, RL]
 tags: [alphago, reinforcement-learning, deep-learning, mcts]
 math: true
