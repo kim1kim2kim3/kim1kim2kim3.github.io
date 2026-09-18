@@ -1,5 +1,5 @@
 ---
-title: "[논문리뷰] David Silver et al., “Mastering the game of Go with deep neural networks and tree search”"
+title: "[논문리뷰] Tabish Rashid et al., “QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning”"
 categories: [논문리뷰, RL]
 tags: [qmix, reinforcement-learning, deep-learning, marl]
 math: true
